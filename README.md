@@ -2,6 +2,15 @@
 
 ![output.gif](output.gif)
 
+Test location: 
+kyushu university ito.Campus
+
+camera spec:
+4k 29.97fps
+
+This research based on:
+kraten/vehicle-speed-check
+
 Technologies used :
 - Python
 - opencv
