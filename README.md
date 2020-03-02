@@ -12,10 +12,11 @@ This research based on:
 kraten/vehicle-speed-check
 
 Modification:
-Calibration
-Detected area
-Speed calculation
-Moving average filter(1s)
+- Calibration
+- Detected area
+- Speed calculation
+- Moving average filter(1s)
+<br>
 
 ------------------------------------------------------------------------------ 
  
