@@ -10,7 +10,13 @@ camera spec:
 
 This research based on:
 kraten/vehicle-speed-check
-(Calibration,Detected area,Speed calculation,Moving average filter(1s))
+
+Modification:
+Calibration
+Detected area
+Speed calculation
+Moving average filter(1s)
+
 ------------------------------------------------------------------------------ 
  
 Technologies used :
