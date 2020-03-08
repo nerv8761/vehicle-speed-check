@@ -18,6 +18,9 @@ Modification:
 - Moving average filter(1s)
 <br>
 
+![figure.png](figure.png)
+
+
 ------------------------------------------------------------------------------ 
  
 Technologies used :
